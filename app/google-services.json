@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413307568064",
+    "project_id": "fitmaze-fced8",
+    "storage_bucket": "fitmaze-fced8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413307568064:android:2ed910d9f8e0e9bad89225",
+        "android_client_info": {
+          "package_name": "com.hhfyp.fitmazeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJSrePafqK4DE32ShMZa5pDJh6GZwCstU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
