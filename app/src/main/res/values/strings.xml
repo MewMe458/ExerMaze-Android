@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FitMaze</string>
+    <string name="app_name">ExerMaze</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="activate_controller_text">Activate controller to connect</string>
     <string name="activate_controller">Activate controller</string>
