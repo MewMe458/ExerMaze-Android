@@ -1,7 +1,7 @@
-# FYP-FitMaze-Android
-Controller app for FitMaze game.
+# FYP-ExerMaze-Android
+Controller app for FitMaze game, made for Final Year Project March/April 2026 (Term 2610), Multimedia University
 
-## FitMaze Game
+## ExerMaze Game
 
 To download and install the PC game, visit the main project repository:  
-[FitMaze UWP](https://github.com/HhT6454/FYP-FitMaze-UWP)
+[ExerMaze UWP](https://github.com/MewMe458/ExerMaze)
